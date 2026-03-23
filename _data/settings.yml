@@ -1,9 +1,12 @@
-title: 'BitDevs NYC'
-tagline: 'BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.'
+title: 'BitDevs @ The Bitcoin Learning Center | Bitcoin Chiang Mai, Thailand'
+tagline: 'BitDevs is a regular community series for Bitcoiners interested in Bitcoin's latest research and technical development.'
 
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Blog', url: '/blog'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}
-  - {name: 'Cities', url: '/cities'}
+  - {name: 'Join', url: '/join'}
+  - {name: 'Links', url: '/links'}
+  - {name: 'Donate', url: '/donate'}
+#  - {name: 'Blog', url: '/blog'}
+# - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}
+# - {name: 'Cities', url: '/cities'}
