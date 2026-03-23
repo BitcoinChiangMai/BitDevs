@@ -1,11 +1,9 @@
 ---
 layout: default
+title: About
 ---
 
-BitDevs is a community for those interested in discussing and participating in
-the research and development of Bitcoin and related protocols. You can be well
-versed with or new to the topics, all are welcome. Be advised: discussion will
-be technical.
+BitDevs is a regular community series for Bitcoiners interested in Bitcoin's latest research and technical development.
 
 ### Socratic Seminars
 
@@ -26,7 +24,7 @@ recorded. It is recommended that you have a firm grasp of the basics of Bitcoin
 in order to extract the most value from our Socratic events.
 
 Please contact the organizers if you'd like to present at a future Socratic
-event or have a recommended topic for discussion: bitdevsnyc at gmail. There
+event or have a recommended topic for discussion. There
 are different requirements for presentations depending on the nature of the
 project.
 
@@ -46,8 +44,7 @@ doesn’t have to be a whitepaper. In the case of widely-known topics (such as
 Elliptic Curve encryption) a chapter of a textbook, Wikipedia article, or other
 material can be suggested.
 
-To propose a topic to present or volunteer to present a paper, please contact
-bitdevsnyc at gmail.
+To propose a topic to present or volunteer to present a paper, please contact us.
 
 ### Debate Series
 
