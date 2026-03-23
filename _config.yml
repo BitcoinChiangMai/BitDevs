@@ -9,8 +9,8 @@ sass:
   style: :compressed
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "BitDevs NYC"
-description: "BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
+title: "BitDevs @ The Bitcoin Learning Center | Bitcoin Chiang Mai, Thailand"
+description: "BitDevs is a regular community series for Bitcoiners interested in Bitcoin's latest research and technical development."
 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
